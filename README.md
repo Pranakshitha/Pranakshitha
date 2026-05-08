@@ -46,8 +46,6 @@ Analyzed Telugu movie re-release records and collections using interactive Power
 - Created KPI-based interactive dashboards
 - Generated business-focused visual insights
 
-<img width="100%" src="PASTE_YOUR_IMAGE_LINK_HERE"/>
-
 ---
 
 ### 💰 Daily Expense Tracker
@@ -60,13 +58,10 @@ Analyzed daily spending records and categorized expenses to understand spending 
 - Built interactive reports and charts
 - Visualized financial insights clearly
 
-<img width="100%" src="PASTE_YOUR_IMAGE_LINK_HERE"/>
 
 # 📚 Currently Learning
 
 - Advanced SQL Queries
-- Power BI Dashboard Optimization
-- Data Cleaning & Transformation
 - AI Applications in Data Analytics
 - Real-time Data Analytics Projects
 
